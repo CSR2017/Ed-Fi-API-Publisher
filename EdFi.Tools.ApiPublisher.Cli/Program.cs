@@ -25,6 +25,7 @@ using Module = Autofac.Module;
 
 namespace EdFi.Tools.ApiPublisher.Cli
 {
+    // meaningless change in order to test workflow
     internal class Program
     {
         private static readonly ILog Logger = LogManager.GetLogger(typeof(Program));
